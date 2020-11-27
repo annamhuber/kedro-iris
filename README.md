@@ -1,5 +1,7 @@
 # Kedro Iris 
 
+Example Project from Kedro getting started https://kedro.readthedocs.io/en/stable/02_get_started/05_example_project.html
+
 ## Overview
 
 This is your new Kedro project, which was generated using `Kedro 0.16.2` by running:
